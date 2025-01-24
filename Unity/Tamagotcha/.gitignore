@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/unity,windows
-# Edit at https://www.toptal.com/developers/gitignore?templates=unity,windows
+# Initially Created by https://www.toptal.com/developers/gitignore/api/unity,windows
+# Edited by Harmon Amakobe
 
 ### Unity ###
 # This .gitignore file should be placed at the root of your Unity project directory
@@ -17,7 +17,6 @@
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
-# Recordings can get excessive in size
 /[Rr]ecordings/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
@@ -37,42 +36,35 @@ ExportedObj/
 .consulo/
 *.csproj
 *.unityproj
-*.sln
-*.suo
-*.tmp
-*.user
-*.userprefs
+
+# Ignore Plastic SCM files
+.plastic/
+*.plastic
+
+# Ignore Unity specific files
 *.pidb
-*.booproj
-*.svd
 *.pdb
 *.mdb
 *.opendb
 *.VC.db
 
-# Unity3D generated meta files
-*.pidb.meta
-*.pdb.meta
-*.mdb.meta
-
-# Unity3D generated file on crash reports
+# Ignore additional Unity generated files
 sysinfo.txt
-
-# Builds
-*.apk
-*.aab
-*.unitypackage
-*.app
-
-# Crashlytics generated file
 crashlytics-build.properties
 
-# Packed Addressables
-/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+# Ignore build artifacts
+*.apk
+*.aab
+*.app
+*.unitypackage
 
-# Temporary auto-generated Android Assets
-/[Aa]ssets/[Ss]treamingAssets/aa.meta
-/[Aa]ssets/[Ss]treamingAssets/aa/*
+# Ignore Addressable Assets data
+**/Assets/AddressableAssetsData/*/*.bin*
+**/assets/addressableassetsdata/*/*.bin*
+
+# Ignore StreamingAssets data
+**/Assets/StreamingAssets/aa.meta
+**/assets/streamingassets/*/aa/*
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -100,4 +92,3 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/unity,windows
