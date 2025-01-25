@@ -1,1 +1,0 @@
-C:\Users\hamak\OneDrive - Butsotso Inc\Butsotso Repositories\Tamagotcha\Unity\Tamagotcha\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\r2v4p37n\obj\arm64-v8a

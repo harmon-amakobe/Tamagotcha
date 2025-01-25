@@ -1,2 +1,0 @@
-C:\Users\hamak\OneDrive - Butsotso Inc\Butsotso Repositories\Tamagotcha\Unity\Tamagotcha\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
-C:\Users\hamak\OneDrive - Butsotso Inc\Butsotso Repositories\Tamagotcha\Unity\Tamagotcha\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

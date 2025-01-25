@@ -1,4 +1,0 @@
-repository "Tamagotcha/Tamagotcha@2475788485466@cloud"
-  path "/"
-    br "/main"
-    co "/main"
