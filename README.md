@@ -14,7 +14,7 @@ A small device designed to let you find each other in mixed reality.
  - Create a new Firebase project (optionally, enable Google Analytics)
  - Once created, navigate to Build on the Sidebar and select Hosting
  - Click Get Started and setup Firebase via NPM on your local environment as it guides you to do: I do this step in VSCode
- - 
+ - Once Firebase is deployed and running (the terminal will provide you the live link), you can copy and paste the Unity build into the public folder and redeploy
 
  ### Tamagotcha (ESP-32) Setup
  Lorem ipsum
