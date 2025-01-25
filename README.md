@@ -8,7 +8,13 @@ A small device designed to let you find each other in mixed reality.
  Followed instructions here: https://www.youtube.com/watch?v=4wQG8_pb3cs&ab_channel=OrenDe-Panther
 
  ### Firebase Setup
- Lorem Ipsum
+ Ensure NPM is installed on your machine: https://nodejs.org/en/download/ 
+
+ Then, using a Google account of your choice
+ - Create a new Firebase project (optionally, enable Google Analytics)
+ - Once created, navigate to Build on the Sidebar and select Hosting
+ - Click Get Started and setup Firebase via NPM on your local environment as it guides you to do: I do this step in VSCode
+ - 
 
  ### Tamagotcha (ESP-32) Setup
  Lorem ipsum
