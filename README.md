@@ -1,5 +1,5 @@
 # Tamagotcha
-A small device designed to let you find each other in mixed reality.
+It's Gotcha Day all over again! Come play with the puppies and pick your favorite.
 
 ## How I Built
  I set up a Unity Project using de-panther's WebXR Export plugin and uploaded it on Firebase. Then I set up the hardware using the Singularity project. After that, I anchored assets to each individual hardware node and enabled multiplayer.
